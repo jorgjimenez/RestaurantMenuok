@@ -1,9 +1,19 @@
+RESTURANT THE DELICIUS ITALIAN 
+-------------------------------Manu---------------------------------
+
+
+---------------Plato----------------          -----------Precio--------------
+                                            |
+- Pizza napolitana                          |    
+-----personal                                  7000$ COP
+-----medium                                    10000$ cop
+-----large                                     16000$ COP
+-- PIZZA COMBO  ( PIZZA PERSONAL + SODA )   | 12000  COP
+   
+ 
+spaguetti pie                                  COMBO + SODA 16 OZ
+Personal size                                  10 euros    15 euros     
 MENU 
 
-RESTURANT THE DELICIUS ITALIAN 
 
-
-
-spaguetti pie             COMBO + SODA 16 OZ
-Personal size  10 euros    15 euros
 
